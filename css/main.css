@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	margin: auto;
+}
+
+h1 {
+	float: center;
+}
+
+#icon {
+	border-style: 2px black;
+}
+
+#main {
+	text-align: center;
+}
+
+#sign {
+	display: block;
+	text-align: center;
+	margin: auto;
+}
+
+#button {
+	margin-top: 15px;
+}
